@@ -1,1 +1,1 @@
-# Supervised-learning-GD-and-Linear-regression
+Implementation of Gradient decsent and linear regression in Matlab
